@@ -8,7 +8,7 @@ This guide was last updated for Swift 3.0 on February 17th, 2017.
 
 ## What is this?
 
-This style guide is a modified version of the [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide/edit/master/README.md). This guide is to help us write elegant code that is easy to read and review. All FlowDK Swift projects will aim to follow this guide. As most "guides" go, these are largely just "starting points" for styling. Styles are (sometimes) meant to be broken! We can't possibly cover all of the egde cases demonstrating when breaking the style guide might actually yield the result you want (elegant, easier to read code), but we'll try to illustrate some throughout this document.
+This style guide is a modified version of LinkedIn's [Swift Style Guide](https://github.com/linkedin/swift-style-guide). This guide is to help us write elegant code that is easy to read and review. All FlowDK Swift projects will aim to follow this guide. As most "guides" go, these are largely just "starting points" for styling. Styles are (sometimes) meant to be broken! We can't possibly cover all of the egde cases demonstrating when breaking the style guide might actually yield the result you want (elegant, easier to read code), but we'll try to illustrate some throughout this document.
 
 Our goals are clarity, elegance, simplicity, consistency and brevity, in that order.
 
